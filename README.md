@@ -14,4 +14,6 @@ Setup:
 Working on:
 - Multi api key support
 - proxy for ^
-- lobby checker? 
+- lobby checker?
+
+If you find any issues please dm sybxr on discord. If its a serious issue I will give vile. 
