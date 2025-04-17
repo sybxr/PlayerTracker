@@ -11,9 +11,4 @@ Setup:
 - in apikey.txt, put your hypixel developer api key, obtained from developer.hypixel.net
 - make sure to have requests installed - pip install requests
 
-Working on:
-- Multi api key support
-- proxy for ^
-- lobby checker?
-
-If you find any issues please dm sybxr on discord. If its a serious issue I will give vile. 
+eh example of learning h2use apis
